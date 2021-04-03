@@ -10,4 +10,7 @@ The XFD file is the canonical source, in an Atari disk image format, from Ed. Th
 Ed has released this code under the MIT License. 
 
 ![Nitro title screenshot](nitro-title.png)
+
 ![Nitro game screenshot](nitro-game.png)
+
+![Nitro catalog burb](nitro-ad.jpg)
